@@ -1,4 +1,6 @@
 # hi-Storia
+<div style="text-align:center"><a href="http://hi-storia.it/"><img src ="http://www.hi-storia.it/wp-content/uploads/2015/06/laquila.jpg" /></a></div>
+
 The Tactile devices hi-Storia are made with 3D printing and reproducing historic buildings and artistic treasures. Through a capacitive circuit, the devices allow the user to access media content with the touch of the fingers.
 
 English description coming soon!
